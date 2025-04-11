@@ -29,18 +29,20 @@ This repository contains work completed during the **British Airways Data Scienc
 
 ## 📂 Folder Structure
 
+```
 british-airways-datascience-internship/
-│
 ├── README.md
+│
 ├── certificate/
 │   └── british_airways_certificate.pdf
 │
 ├── presentation/
-│   └── project_summary_slides.pptx
+│   ├── Task1.ppt
+│   └── Task2.ppt
 │
 ├── task-1-customer-reviews-analysis/
 │   ├── data/
-│   │   └── raw_reviews.csv
+│   │   └── BA_reviews.csv
 │   ├── notebooks/
 │   │   └── review_analysis.ipynb
 │   └── outputs/
@@ -56,8 +58,7 @@ british-airways-datascience-internship/
 │       ├── classification_report.png
 │       ├── feature_importance.png
 │       └── roc_curve.png
-│
-|
-└── requirements.txt
+```
+
 
 ### Program Link: https://www.theforage.com/simulations/british-airways/data-science-yqoz?ref=87jnjsrQEx6guHcaq
